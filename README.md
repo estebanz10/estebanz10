@@ -1,5 +1,8 @@
-Hi there 👋
+## Hi I'm Esteban 👋
 
+I am 20 years old and started my Computer Science career 5 years ago through a basic python programming class. I took great interest on how software development integrated with data management, website tool building, and video game functionality thus starting my journey to learn more about Computer Science. 
+
+This passion brought me to University of Illinois at Chicago where I've learned new languages, algorithms, and about how other people are handling their careers. 
 
 
 <!--
