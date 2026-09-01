@@ -20,7 +20,7 @@ Some tools/languages I like to use are as follows:
 By Email or LinkedIn are the best ways to reach me as I do check those regularly for any incoming updates
 
 Fun Facts:
-- I am a very extroverted individual
-- I am a big advocator for remaining active, as it improves brain functionality
+- Very extroverted individual
+- Big advocator for remaining active, as it improves brain functionality
 - Very eager about learning ANYTHING
-- I am the proud father of 3 cats
+- Proud father of 3 cats
